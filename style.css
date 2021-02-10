@@ -89,8 +89,8 @@ body{
 	  padding-bottom: 50px
 }
 
-/*================ INFOX BOX ====================*/
-a.info-box{
+/*================ INFO BOX ====================*/
+.info-box{
       text-decoration: none;
    	  background: rgba(255,255,255,.8); 
 	  width: 90%;
@@ -103,7 +103,7 @@ a.info-box{
 .info-box img{
 	   height: 70px;
 	   margin :10px;
-	   float:left;
+	   float:left
 }
 
 /*================ INFO BOX FULL ====================*/
